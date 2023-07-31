@@ -2,3 +2,5 @@
 # Windows files
 *.ini
 
+# Editors
+.vscode
